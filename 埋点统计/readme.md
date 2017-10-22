@@ -2,7 +2,7 @@
 
 <pre>
 bref：平台地址：https://web.umeng.com/main.php?c=site&a=show
-1、账号和密码： IT@credit-pomelo.com / Admin1234
+1、账号和密码： 
 2、统计植入（siteid是站点唯一身份）
 第一步：head里添加：
 参考URL：https://web.umeng.com/main.php?c=site&a=getcode&siteid=1263692566
